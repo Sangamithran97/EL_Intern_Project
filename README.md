@@ -1,1 +1,5 @@
 # EL_Intern_Project
+I have done 2 projects which are Password Length Analyzer with Custom Wordlist Generator and also a perosnal firewall using python. 
+I have done the Password Length Analyzer with the analyzer.py file which contains the base code which i initially created without gui tool and then I created the gui_tool.py in which then i also integrated the tkinter gui code to the password analyzer and i also had customtext.txt which has a list of passwords which the user may use based on their name, fav number, nickname and birth year. So this file will be used to check the password that the user enters and gives a warning message if they use their personal details as their password.  You can run the gui_tool.py in any pyhton interpreter to see my working project.
+
+I also made a personal firewall which can block specific ips, ports and protocols which I have mentioned in the firewall_rules.py. Also there is a firewall_logs.txt which is used to store the log of the block activity done by the firewall. I have not done gui for this yet but later when i get time i will try to integrate gui into this project.  
