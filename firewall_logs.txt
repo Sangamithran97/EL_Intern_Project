@@ -1,0 +1,8 @@
+2025-06-18 22:04:11.704482 - Blocked ICMP - Ether / IP / ICMP 192.168.162.180 > 8.8.8.8 echo-request 0 / Raw
+2025-06-18 22:04:11.770670 - Blocked ICMP - Ether / IP / ICMP 8.8.8.8 > 192.168.162.180 echo-reply 0 / Raw
+2025-06-18 22:04:12.726656 - Blocked ICMP - Ether / IP / ICMP 192.168.162.180 > 8.8.8.8 echo-request 0 / Raw
+2025-06-18 22:04:12.778522 - Blocked ICMP - Ether / IP / ICMP 8.8.8.8 > 192.168.162.180 echo-reply 0 / Raw
+2025-06-18 22:04:13.739288 - Blocked ICMP - Ether / IP / ICMP 192.168.162.180 > 8.8.8.8 echo-request 0 / Raw
+2025-06-18 22:04:13.827985 - Blocked ICMP - Ether / IP / ICMP 8.8.8.8 > 192.168.162.180 echo-reply 0 / Raw
+2025-06-18 22:04:14.747472 - Blocked ICMP - Ether / IP / ICMP 192.168.162.180 > 8.8.8.8 echo-request 0 / Raw
+2025-06-18 22:04:14.830196 - Blocked ICMP - Ether / IP / ICMP 8.8.8.8 > 192.168.162.180 echo-reply 0 / Raw
